@@ -1,1 +1,16 @@
-//
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Colors
+@import 'styles/_colors';
+
+// Imports
+@import 'styles/toastAlert';
+@import 'styles/container';
+@import 'styles/content';
+@import 'styles/footer';
+@import 'styles/row';
+@import 'styles/root';
